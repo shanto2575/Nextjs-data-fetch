@@ -6,19 +6,24 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "server": "json-server --watch db.json --port 5000"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "json-server": "^1.0.0-beta.15",
     "next": "16.2.4",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "autoprefixer": "^10.5.0",
     "babel-plugin-react-compiler": "1.0.0",
     "daisyui": "^5.5.19",
     "eslint": "^9",
     "eslint-config-next": "16.2.4",
-    "tailwindcss": "^4"
+    "postcss": "^8.5.10",
+    "tailwindcss": "^4.2.2"
   }
 }

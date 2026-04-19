@@ -1,0 +1,226 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone 15 Pro",
+            "brand": "Apple",
+            "category": "smartphone",
+            "price": 1199,
+            "stock": 25,
+            "rating": 4.8,
+            "thumbnail": "https://i.imgur.com/1bX5QH6.png",
+            "description": "Apple A17 Pro chip, 48MP camera, titanium design"
+        },
+        {
+            "id": 2,
+            "title": "Samsung Galaxy S24 Ultra",
+            "brand": "Samsung",
+            "category": "smartphone",
+            "price": 1099,
+            "stock": 30,
+            "rating": 4.7,
+            "thumbnail": "https://i.imgur.com/2DhmtJ4.png",
+            "description": "200MP camera, Snapdragon Gen 3, S-Pen support"
+        },
+        {
+            "id": 3,
+            "title": "MacBook Air M3",
+            "brand": "Apple",
+            "category": "laptop",
+            "price": 1399,
+            "stock": 15,
+            "rating": 4.9,
+            "thumbnail": "https://i.imgur.com/jV7gR9E.png",
+            "description": "13-inch Retina display, Apple M3 chip, 18hr battery"
+        },
+        {
+            "id": 4,
+            "title": "Dell XPS 15",
+            "brand": "Dell",
+            "category": "laptop",
+            "price": 1599,
+            "stock": 12,
+            "rating": 4.6,
+            "thumbnail": "https://i.imgur.com/Wk6jR9n.png",
+            "description": "Intel i9, 32GB RAM, RTX 4060"
+        },
+        {
+            "id": 5,
+            "title": "Sony WH-1000XM5",
+            "brand": "Sony",
+            "category": "headphone",
+            "price": 399,
+            "stock": 40,
+            "rating": 4.8,
+            "thumbnail": "https://i.imgur.com/v1H9Z9M.png",
+            "description": "Industry leading noise cancellation headphones"
+        },
+        {
+            "id": 6,
+            "title": "AirPods Pro 2",
+            "brand": "Apple",
+            "category": "earbuds",
+            "price": 249,
+            "stock": 50,
+            "rating": 4.7,
+            "thumbnail": "https://i.imgur.com/YQ4p8kF.png",
+            "description": "Active noise cancellation, spatial audio"
+        },
+        {
+            "id": 7,
+            "title": "iPad Pro 12.9",
+            "brand": "Apple",
+            "category": "tablet",
+            "price": 1099,
+            "stock": 18,
+            "rating": 4.8,
+            "thumbnail": "https://i.imgur.com/GyQb9cF.png",
+            "description": "Liquid Retina XDR display, M2 chip"
+        },
+        {
+            "id": 8,
+            "title": "Logitech MX Master 3S",
+            "brand": "Logitech",
+            "category": "accessories",
+            "price": 99,
+            "stock": 60,
+            "rating": 4.9,
+            "thumbnail": "https://i.imgur.com/hb2vJzO.png",
+            "description": "Wireless productivity mouse"
+        },
+        {
+            "id": 9,
+            "title": "Mechanical RGB Keyboard",
+            "brand": "Keychron",
+            "category": "accessories",
+            "price": 129,
+            "stock": 35,
+            "rating": 4.6,
+            "thumbnail": "https://i.imgur.com/3mL9Q9B.png",
+            "description": "Hot-swappable mechanical keyboard"
+        },
+        {
+            "id": 10,
+            "title": "Gaming Monitor 27\" 165Hz",
+            "brand": "LG",
+            "category": "monitor",
+            "price": 329,
+            "stock": 22,
+            "rating": 4.7,
+            "thumbnail": "https://i.imgur.com/9q2ZP9E.png",
+            "description": "QHD IPS display with 165Hz refresh rate"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "category": "Self Development",
+            "price": 18.99,
+            "rating": 4.9,
+            "stock": 40,
+            "cover": "https://i.imgur.com/atomic-habits.jpg",
+            "description": "A practical guide to building good habits and breaking bad ones."
+        },
+        {
+            "id": 2,
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "category": "Finance",
+            "price": 15.50,
+            "rating": 4.7,
+            "stock": 35,
+            "cover": "https://i.imgur.com/richdad.jpg",
+            "description": "Learn how the rich think about money and investing."
+        },
+        {
+            "id": 3,
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "category": "Fiction",
+            "price": 12.99,
+            "rating": 4.8,
+            "stock": 50,
+            "cover": "https://i.imgur.com/alchemist.jpg",
+            "description": "A philosophical novel about following your dreams."
+        },
+        {
+            "id": 4,
+            "title": "Deep Work",
+            "author": "Cal Newport",
+            "category": "Productivity",
+            "price": 17.25,
+            "rating": 4.6,
+            "stock": 25,
+            "cover": "https://i.imgur.com/deepwork.jpg",
+            "description": "Rules for focused success in a distracted world."
+        },
+        {
+            "id": 5,
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "category": "Programming",
+            "price": 32.99,
+            "rating": 4.9,
+            "stock": 20,
+            "cover": "https://i.imgur.com/cleancode.jpg",
+            "description": "A handbook of agile software craftsmanship."
+        },
+        {
+            "id": 6,
+            "title": "You Don't Know JS Yet",
+            "author": "Kyle Simpson",
+            "category": "Programming",
+            "price": 28.00,
+            "rating": 4.8,
+            "stock": 18,
+            "cover": "https://i.imgur.com/ydkjs.jpg",
+            "description": "Deep dive into JavaScript core mechanisms."
+        },
+        {
+            "id": 7,
+            "title": "Think and Grow Rich",
+            "author": "Napoleon Hill",
+            "category": "Motivation",
+            "price": 14.99,
+            "rating": 4.7,
+            "stock": 45,
+            "cover": "https://i.imgur.com/thinkgrow.jpg",
+            "description": "Classic book about success and mindset."
+        },
+        {
+            "id": 8,
+            "title": "The Psychology of Money",
+            "author": "Morgan Housel",
+            "category": "Finance",
+            "price": 16.99,
+            "rating": 4.8,
+            "stock": 30,
+            "cover": "https://i.imgur.com/psychmoney.jpg",
+            "description": "Timeless lessons on wealth, greed and happiness."
+        },
+        {
+            "id": 9,
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "category": "Fantasy",
+            "price": 19.99,
+            "rating": 4.9,
+            "stock": 60,
+            "cover": "https://i.imgur.com/hp1.jpg",
+            "description": "The magical beginning of the Harry Potter series."
+        },
+        {
+            "id": 10,
+            "title": "The Pragmatic Programmer",
+            "author": "Andrew Hunt & David Thomas",
+            "category": "Programming",
+            "price": 34.50,
+            "rating": 4.9,
+            "stock": 22,
+            "cover": "https://i.imgur.com/pragmatic.jpg",
+            "description": "Journey to mastery for modern software developers."
+        }
+    ]
+}
